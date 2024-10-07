@@ -43,7 +43,7 @@ Open up `main.py` and edit the values, refer to the key below.
 **BUGGEDIMAGE:** `Display a loading image on Discord` <br>
 **ANTIBOT:** `Prevent bots from spamming your webhook!` <br>
 **REDIRECT:** `Redirect user?` <br>
-**PAGE:** `Page to redirect to, if so` <br>
+**PAGE:** `Page to redirect to, if so` <br> 
  
 **ANNOTATIONS:**
 * **1)** `IMAGEARGUMENT`
