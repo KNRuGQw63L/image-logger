@@ -94,7 +94,7 @@ Simply insert anything in the following table and it will replace it respectivel
 None at the moment!
 
 ---
-
+ 
 # 📜 Closing Statements
  
 Liked the project? I know you did! Support me, **drop a star!** <br>
