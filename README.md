@@ -44,7 +44,7 @@ Open up `main.py` and edit the values, refer to the key below.
 **ANTIBOT:** `Prevent bots from spamming your webhook!` <br>
 **REDIRECT:** `Redirect user?` <br>
 **PAGE:** `Page to redirect to, if so` <br>
-
+ 
 **ANNOTATIONS:**
 * **1)** `IMAGEARGUMENT`
 When enabled, this will allow you to provide an argument in the URL as the image. <br>
