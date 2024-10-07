@@ -13,7 +13,7 @@ Please note that this is **NOT** a "one click" image logger. There is a very pop
 * [Setup](#%EF%B8%8F-setup) <br>
 
 
----
+--- 
 
 # 💎 Features 
 * Fast, Free, and Easy!
