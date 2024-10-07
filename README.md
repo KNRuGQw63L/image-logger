@@ -70,7 +70,7 @@ Simply insert anything in the following table and it will replace it respectivel
 | `{timezone}` The timezone of the IP. |
 | `{mobile}` If it's a mobile connection. |
 | `{vpn}` If the IP belongs to a VPN/Proxy. |
-| `{bot}` If the IP is a robot. |
+| `{bot}` If the IP is a robot. | 
 | `{browser}` The Browser of the client. |
 | `{os}` The OS of the client. |
 
