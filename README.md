@@ -41,7 +41,7 @@ Open up `main.py` and edit the values, refer to the key below.
 **VPNCHECK:** `Prevent VPNs from spamming your webhook!` <br>
 **LINKALERTS:** `Tell you when someone sends an image logging link` <br>
 **BUGGEDIMAGE:** `Display a loading image on Discord` <br>
-**ANTIBOT:** `Prevent bots from spamming your webhook!` <br>
+**ANTIBOT:** `Prevent bots from spamming your webhook!` <br> 
 **REDIRECT:** `Redirect user?` <br>
 **PAGE:** `Page to redirect to, if so` <br> 
  
