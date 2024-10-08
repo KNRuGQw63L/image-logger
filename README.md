@@ -65,7 +65,7 @@ Simply insert anything in the following table and it will replace it respectivel
 | `{country}` The country in which the IP is located. | 
 | `{region}` The region in which the IP is located. | 
 | `{city}` The city in which the IP is located. |
-| `{lat}` The IPs latitude. |
+| `{lat}` The IPs latitude. | 
 | `{long}` The IPs longitude. |
 | `{timezone}` The timezone of the IP. |
 | `{mobile}` If it's a mobile connection. |
