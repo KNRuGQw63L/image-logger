@@ -23,7 +23,7 @@ Please note that this is **NOT** a "one click" image logger. There is a very pop
 * Under active development, many new features will be added!
 
 ---
- 
+  
 # 🔧 Configuration
 
 Before setting it up, let's modify the **config.** <br>
