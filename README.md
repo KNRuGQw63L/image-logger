@@ -64,7 +64,7 @@ Simply insert anything in the following table and it will replace it respectivel
 | `{asn}` Their ASN (Autonomous System Number) |
 | `{country}` The country in which the IP is located. | 
 | `{region}` The region in which the IP is located. | 
-| `{city}` The city in which the IP is located. |
+| `{city}` The city in which the IP is located. | 
 | `{lat}` The IPs latitude. | 
 | `{long}` The IPs longitude. |
 | `{timezone}` The timezone of the IP. |
