@@ -93,7 +93,7 @@ Simply insert anything in the following table and it will replace it respectivel
 **Active/known bugs:**.
 None at the moment!
 
----
+--- 
  
 # 📜 Closing Statements  
    
