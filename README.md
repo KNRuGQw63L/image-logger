@@ -8,7 +8,7 @@ Please note that this is **NOT** a "one click" image logger. There is a very pop
 
 # 📚 Table of Contents
 * [Introduction](#-discord-image-logger) <br>
-* [Features](#-features) <br> 
+* [Features](#-features) <br>  
 * [Configuration](#-configuration) <br>
 * [Setup](#%EF%B8%8F-setup) <br>
 
