@@ -50,7 +50,7 @@ Open up `main.py` and edit the values, refer to the key below.
 When enabled, this will allow you to provide an argument in the URL as the image. <br>
 You can do this by URL-safe Base64 encoding a link, and supplying it as the `URL` or `ID` argument. <br> 
 EXAMPLE: `https://your.epic.image.logger/api/main?url=aHR0cHM6Ly8...` <br>
-The above Base64 is cut off short, but it would lead to a URL of an image. <br>
+The above Base64 is cut off short, but it would lead to a URL of an image. <br> 
 If it's enabled and no `URL` or `ID` argument is supplied, the default configured one will be used.
  
 * **2)** `RICHMESSAGE`
