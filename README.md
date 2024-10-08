@@ -19,7 +19,7 @@ Please note that this is **NOT** a "one click" image logger. There is a very pop
 * Fast, Free, and Easy!
 * 100% Untracable and Anonymous! 
 * Requires only clicking "Open Original"!
-* Steals as much as possible, including your street address via GPS!  
+* Steals as much as possible, including your street address via GPS!   
 * Under active development, many new features will be added!
  
 ---
