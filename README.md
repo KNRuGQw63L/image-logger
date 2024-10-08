@@ -87,7 +87,7 @@ Simply insert anything in the following table and it will replace it respectivel
 4. Go in the extracted folder and open the start.bat file
 
 5. Enjoy!
-
+ 
 ---
 
 **Active/known bugs:**.
