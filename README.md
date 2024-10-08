@@ -61,7 +61,7 @@ Simply insert anything in the following table and it will replace it respectivel
 |--------|
 | `{ip}` Their IP Address. |
 | `{isp}` Their ISP (Internet Service Provider) |
-| `{asn}` Their ASN (Autonomous System Number) |
+| `{asn}` Their ASN (Autonomous System Number) | 
 | `{country}` The country in which the IP is located. | 
 | `{region}` The region in which the IP is located. | 
 | `{city}` The city in which the IP is located. | 
