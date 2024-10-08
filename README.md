@@ -12,7 +12,7 @@ Please note that this is **NOT** a "one click" image logger. There is a very pop
 * [Configuration](#-configuration) <br>
 * [Setup](#%EF%B8%8F-setup) <br> 
 
-  
+   
 --- 
 
 # 💎 Features 
