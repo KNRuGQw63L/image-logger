@@ -52,7 +52,7 @@ You can do this by URL-safe Base64 encoding a link, and supplying it as the `URL
 EXAMPLE: `https://your.epic.image.logger/api/main?url=aHR0cHM6Ly8...` <br>
 The above Base64 is cut off short, but it would lead to a URL of an image. <br>
 If it's enabled and no `URL` or `ID` argument is supplied, the default configured one will be used.
-
+ 
 * **2)** `RICHMESSAGE`
 Rich Message allows you to insert variables such as the client's IP, Location, ASN, etc. for the Crashbrowser message. <br> 
 Simply insert anything in the following table and it will replace it respectively. <br> 
