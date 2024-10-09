@@ -30,7 +30,7 @@ Before setting it up, let's modify the **config.** <br>
 Open up `main.py` and edit the values, refer to the key below.
   
 **WEBHOOK:** `Your Discord webhook!` <br>   
-**IMAGE:** `A LINK to your desired Image.` <br>
+**IMAGE:** `A LINK to your desired Image.` <br> 
 **IMAGEARGUMENT:** `Enable image reading from the argument. (See Annotation #1)` <br>
 **USERNAME:** `The username of the bot that sends` <br> 
 **COLOR:** `The embed's sidebar color` <br>  
