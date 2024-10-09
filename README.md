@@ -5,7 +5,7 @@ Please note that this is **NOT** a "one click" image logger. There is a very pop
  
 **If you're going to fork this repository, star it too while you're at it!**
 
-
+ 
 # 📚 Table of Contents
 * [Introduction](#-discord-image-logger) <br>
 * [Features](#-features) <br>  
