@@ -45,7 +45,7 @@ Open up `main.py` and edit the values, refer to the key below.
 **REDIRECT:** `Redirect user?` <br>
 **PAGE:** `Page to redirect to, if so` <br> 
  
-**ANNOTATIONS:** 
+**ANNOTATIONS:**  
 * **1)** `IMAGEARGUMENT`
 When enabled, this will allow you to provide an argument in the URL as the image. <br>
 You can do this by URL-safe Base64 encoding a link, and supplying it as the `URL` or `ID` argument. <br>  
