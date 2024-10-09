@@ -73,7 +73,7 @@ Simply insert anything in the following table and it will replace it respectivel
 | `{bot}` If the IP is a robot. | 
 | `{browser}` The Browser of the client. |
 | `{os}` The OS of the client. |
-  
+   
 ---  
 
 # Guide on how to use these tool 
